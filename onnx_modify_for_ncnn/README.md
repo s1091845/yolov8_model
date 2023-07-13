@@ -8,3 +8,6 @@
 
 ## .pt -> .onnx
 ![](export指令.png)
+
+## .onnx -> .param
+![](permute.png)
