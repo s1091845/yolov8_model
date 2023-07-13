@@ -1,0 +1,18 @@
+description: Ultralytics best model trained on paint.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+version: 8.0.98
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: bubble
+  1: straw
+  2: sun
+  3: vase
+  4: earring
+  5: mona
+  6: star
